@@ -7,3 +7,4 @@ Octo Cat
 Aadil Shekh
 John Perret
 Ankit Patel
+Joshua Wyatt
