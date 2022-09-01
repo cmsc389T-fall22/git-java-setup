@@ -1,16 +1,21 @@
 # git-java-setup
 
-Add your name below. Make sure to add a line between names!
+Add your name below. Make sure to add an empty line between names!
+
+Octo Cat
 
 Sophie Jorgensen
-Octo Cat
-<<<<<<< HEAD
 
-=======
 Aadil Shekh
+
 John Perret
+
 Ankit Patel
+
 Joshua Wyatt
+
 roshan shet
+
 Colin Bragger
+
 June Philip
