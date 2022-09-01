@@ -6,7 +6,6 @@ Sophie Jorgensen
 Octo Cat
 <<<<<<< HEAD
 
-June Philip
 =======
 Aadil Shekh
 John Perret
@@ -14,4 +13,4 @@ Ankit Patel
 Joshua Wyatt
 roshan shet
 Colin Bragger
-
+June Philip
