@@ -4,6 +4,8 @@ Add your name below. Make sure to add an empty line between names!
 
 Octo Cat
 
+Vivian Chen
+
 Sophie Jorgensen
 
 Aadil Shekh
