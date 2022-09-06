@@ -2,6 +2,8 @@
 
 Add your name below. Make sure to add an empty line between names!
 
+Suraj Narang
+
 Octo Cat
 
 Vivian Chen
