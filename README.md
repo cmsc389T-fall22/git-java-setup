@@ -39,3 +39,5 @@ Amal Verma
 Anthony Squillacioti
 
 Annemarie Peek
+
+Shrikar Vasisht
