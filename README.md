@@ -71,3 +71,5 @@ Richard Bui
 Darian Maitland
 
 Lauren Wei
+
+Matthew Day
