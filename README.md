@@ -54,9 +54,8 @@ Kishore Nagarajan
 
 Matt Lacek
 
-<<<<<<< HEAD
 Corey Huang
-=======
 Brian Hopkins
 
->>>>>>> f3fe2ecdb0ae6944e0dcabc3ce4468728ec91169
+Maxwell Myers
+
