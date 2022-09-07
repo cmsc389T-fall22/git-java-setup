@@ -67,3 +67,5 @@ Adrian Paras
 Olivia Miskala-Dinc
 
 Richard Bui
+
+Darian Maitland
