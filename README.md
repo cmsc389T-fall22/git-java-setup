@@ -66,9 +66,8 @@ Adrian Paras
 
 Olivia Miskala-Dinc
 
-<<<<<<< HEAD
 Andrew Muirhead
-=======
+
 Richard Bui
 
 Darian Maitland
@@ -76,4 +75,3 @@ Darian Maitland
 Lauren Wei
 
 Matthew Day
->>>>>>> a80f664d7da2aaeeae73ea62c64055e1e87f9415
