@@ -69,3 +69,5 @@ Olivia Miskala-Dinc
 Richard Bui
 
 Darian Maitland
+
+Lauren Wei
