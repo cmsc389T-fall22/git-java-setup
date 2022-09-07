@@ -65,3 +65,5 @@ Sahil Sinha
 Adrian Paras
 
 Olivia Miskala-Dinc
+
+Richard Bui
